@@ -61,7 +61,7 @@ int main()
         cout<<"\t\t\t\t STUDENT MANAGEMENT SYSTEM"<<endl;
         cout<<"\t\t--------------------------------------------------------------"<<endl;
         cout<<"\t\t\t\t 1. Insert Student Data"<<endl;
-        cout<<"\t\t\t\t 2. display or show Student Data"<<endl;
+        cout<<"\t\t\t\t 2. show Student Data"<<endl;
         cout<<"\t\t\t\t 3. Search Student Data"<<endl;
         cout<<"\t\t\t\t 4. Delete Student Data"<<endl;
         cout<<"\t\t\t\t 5. Update Student Data"<<endl;
